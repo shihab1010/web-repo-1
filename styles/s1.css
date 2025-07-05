@@ -33,7 +33,7 @@
 }
 .logo a{
      text-decoration: none;
-    font-size: medium;font-weight: bold;color: rgb(251, 251, 252);
+    font-size: 35px;font-weight: bold;color: rgb(251, 251, 252);
 }
 li{
     list-style: none;
@@ -62,8 +62,9 @@ button a{
 input[type="search"]{
     border: 1px solid rgb(18, 135, 137);
     border-radius: 10px;
-    margin-top: 5px;
+    /* margin-top: 5px; */
     box-shadow: 7px 7px 10px blueviolet;
+    padding: 10px;
     
 }
 
